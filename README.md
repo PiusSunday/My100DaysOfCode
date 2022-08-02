@@ -13,3 +13,9 @@ More Info [here](Day0/Day0.md)
 Today, I officialy started the #100DaysOfCode challenge, where i dived into some basics in Flutter and Python.
 
 More Info [here](Day1/Day1.md)
+
+## Day 2
+
+I had some other stuff to attend to today but I was able to work on some basic Flutter Apps and attempted the Flutter layout challenge.
+
+More Info [here](Day2/Day2.md)
