@@ -19,3 +19,9 @@ More Info [here](Day1/Day1.md)
 I had some other stuff to attend to today but I was able to work on some basic Flutter Apps and attempted the Flutter layout challenge.
 
 More Info [here](Day2/Day2.md)
+
+## Day 3
+
+Today was all about understanding Flutter widgets and their properties and trying to use them for an App layout, and on Python, I attempted some exercises.
+
+More Info [here](Day3/Day3.md)
