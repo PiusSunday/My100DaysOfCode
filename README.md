@@ -25,3 +25,11 @@ More Info [here](Day2/Day2.md)
 Today was all about understanding Flutter widgets and their properties and trying to use them for an App layout, and on Python, I attempted some exercises.
 
 More Info [here](Day3/Day3.md)
+
+## Day 4
+
+I spent today working on a profile setup page UI design I found on Twitter.
+
+As well as attempting some Python Exercises later in the evening.
+
+More Info [here](Day4/Day4.md)

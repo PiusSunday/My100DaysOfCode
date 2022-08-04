@@ -10,8 +10,8 @@
 
 - Visited some old Lessons I did on Python Basics.
 
-![screenshot](Day4/images/sss.png)
-
 ![screenshot](Day4/images/ss.png)
+
+![screenshot](Day4/images/sss.png)
 
 Full source code here [here](https://github.com/PiusSunday/profile_setup)
