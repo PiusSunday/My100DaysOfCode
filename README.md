@@ -33,3 +33,11 @@ I spent today working on a profile setup page UI design I found on Twitter.
 As well as attempting some Python Exercises later in the evening.
 
 More Info [here](Day4/Day4.md)
+
+## Day 5
+
+Today, I focused more on learning than building where I dived deep into some Flutter Layouts and Dart Libraries and how to use them in a Flutter App.
+
+On the other hand, I learned how to use the Python Statements, Comments and Keywords.
+
+More Info [here](Day5/Day5.md)
