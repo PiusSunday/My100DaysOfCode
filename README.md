@@ -41,3 +41,15 @@ Today, I focused more on learning than building where I dived deep into some Flu
 On the other hand, I learned how to use the Python Statements, Comments and Keywords.
 
 More Info [here](Day5/Day5.md)
+
+## Day 6
+
+Today, I put into practice what I've learnt in the last two days on Stateful and Stateless Widgets as well as handling Gesture Detections from users.
+
+I Built two Flutter Apps with gesture detection functionalities.
+
+## 1. Dicee App
+
+## 2. Magic 8 Ball App
+
+More Info [here](Day6/Day6.md)
