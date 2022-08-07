@@ -53,3 +53,10 @@ I Built two Flutter Apps with gesture detection functionalities.
 ## 2. Magic 8 Ball App
 
 More Info [here](Day6/Day6.md)
+
+## Day 7
+
+Today, I got back to learning about the Dart Programming Language, particularly Dart Functions and how to us them in Flutter.
+I also dived deep into understanding Flutter Packages and how to use them.
+
+More Info [here](Day7/Day7.md)
