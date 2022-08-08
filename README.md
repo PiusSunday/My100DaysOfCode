@@ -60,3 +60,11 @@ Today, I got back to learning about the Dart Programming Language, particularly 
 I also dived deep into understanding Flutter Packages and how to use them.
 
 More Info [here](Day7/Day7.md)
+
+## Day 8
+
+Today was all about code migration, I spent the day figuring out and learning how to migrate a Flutter code to null saety.
+
+I also learned how to use the Flutter migration tool to migrate a Flutter code to null safety.
+
+More Info [here](Day8/Day8.md)
