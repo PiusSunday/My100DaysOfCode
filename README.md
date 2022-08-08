@@ -63,7 +63,7 @@ More Info [here](Day7/Day7.md)
 
 ## Day 8
 
-Today was all about code migration, I spent the day figuring out and learning how to migrate a Flutter code to null saety.
+Today was all about code migration, I spent the day figuring out and learning how to migrate a Flutter code to null safety.
 
 I also learned how to use the Flutter migration tool to migrate a Flutter code to null safety.
 
