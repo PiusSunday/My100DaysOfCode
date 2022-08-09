@@ -68,3 +68,9 @@ Today was all about code migration, I spent the day figuring out and learning ho
 I also learned how to use the Flutter migration tool to migrate a Flutter code to null safety.
 
 More Info [here](Day8/Day8.md)
+
+## Day 9
+
+Today, I didn't do much other than reviewing my old notes and reading the Introduction to Flutter Book and the Dart Programming Language on b-ok.africa's website.
+
+More Info [here](Day9/Day9.md)
