@@ -74,3 +74,11 @@ More Info [here](Day8/Day8.md)
 Today, I didn't do much other than reviewing my old notes and reading the Introduction to Flutter Book and the Dart Programming Language on b-ok.africa's website.
 
 More Info [here](Day9/Day9.md)
+
+## Day 10
+
+Today, I started working on bulding a simple Quiz app with Flutter using the Dart Language.
+
+I also tried to solve some Dart Programming Language Exercises on Exercism using their CLI tools.
+
+More Info [here](Day10/Day10.md)
