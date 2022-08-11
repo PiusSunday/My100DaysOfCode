@@ -82,3 +82,11 @@ Today, I started working on bulding a simple Quiz app with Flutter using the Dar
 I also tried to solve some Dart Programming Language Exercises on Exercism using their CLI tools.
 
 More Info [here](Day10/Day10.md)
+
+## Day 11
+
+Today, I completed building the Quiz App.
+
+I also worked on the project I'm currently on for my Internship, where I chnaged the UI to match the design made by the design team and adding some validation authentication.
+
+More Info [here](Day11/Day11.md)
