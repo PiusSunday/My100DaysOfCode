@@ -90,3 +90,13 @@ Today, I completed building the Quiz App.
 I also worked on the project I'm currently on for my Internship, where I chnaged the UI to match the design made by the design team and adding some validation authentication.
 
 More Info [here](Day11/Day11.md)
+
+## Day 12
+
+Today, I took time to rest, which means I didn't do much of coding.
+
+I was having a problem with changing the Language that appears on my repository when I upload my Flutter Projects to Github.
+
+So I took time to find the solutions and fix the problem which I did eventually.
+
+More Info [here](Day12/Day12.md)
