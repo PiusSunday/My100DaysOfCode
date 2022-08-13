@@ -1,6 +1,6 @@
 # Day 13
 
-Today, worked on this app (Destini App)
+Today, I worked on this app (Destini App)
 
 ## Destini App
 
