@@ -106,3 +106,11 @@ More Info [here](Day12/Day12.md)
 Today, I worked on this app (Destini App): An adventure-like game app like the Bandersnatch Show on Netflix.
 
 More Info [here](Day13/Day13.md)
+
+## Day 14
+
+Today being a weekend day, I took advantage of the day to do some off-coding personal stuff and lots of resting.
+
+Today, I coded for about 3 hours and 15 minutes.
+
+More Info [here](Day13/Day13.md)
