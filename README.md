@@ -113,4 +113,12 @@ Today being a weekend day, I took advantage of the day to do some off-coding per
 
 Today, I coded for about 3 hours and 15 minutes.
 
-More Info [here](Day13/Day13.md)
+More Info [here](Day14/Day14.md)
+
+## Day 15
+
+Today, I coded for about 4 hours and 35 minutes.
+
+I learnt how to use and customize Flutter Themes and Colors to make beautiful UI's.
+
+More Info [here](Day15/Day15.md)
