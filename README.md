@@ -122,3 +122,11 @@ Today, I coded for about 4 hours and 35 minutes.
 I learnt how to use and customize Flutter Themes and Colors to make beautiful UI's.
 
 More Info [here](Day15/Day15.md)
+
+## Day 16
+
+Today was all about learning and building.
+
+I learnt about the differences between the Dart's Final and Const Keywords
+
+More Info [here](Day16/Day16.md)
