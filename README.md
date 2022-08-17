@@ -130,3 +130,11 @@ Today was all about learning and building.
 I learnt about the differences between the Dart's Final and Const Keywords
 
 More Info [here](Day16/Day16.md)
+
+## Day 17
+
+Today, I spent pretty much of the day coding.
+
+I learnt how to create custom Flutter Widgets and I also worked on a great part of my Internship project.
+
+More Info [here](Day17/Day17.md)
