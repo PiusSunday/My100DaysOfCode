@@ -138,3 +138,11 @@ Today, I spent pretty much of the day coding.
 I learnt how to create custom Flutter Widgets and I also worked on a great part of my Internship project.
 
 More Info [here](Day17/Day17.md)
+
+## Day 18
+
+Today was all about learning and building.
+
+Building the BMI Calculator App.
+
+More Info [here](Day18/Day18.md)
