@@ -146,3 +146,13 @@ Today was all about learning and building.
 Building the BMI Calculator App.
 
 More Info [here](Day18/Day18.md)
+
+## Day 19
+
+Today I learnt some advanced Flutter concepts on how to create a custom Flutter Widget From scratch.
+
+I built a Google Meet In-Call Mobile Interface App.
+
+I was on a Google Meet call yesterday, during the process of the call, I got inspired by how the Interface of the Google Meet Mobile Interface looked, and decided to clone it.
+
+More Info [here](Day19/Day19.md)
