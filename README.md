@@ -156,3 +156,9 @@ I built a Google Meet In-Call Mobile Interface App.
 I was on a Google Meet call yesterday, during the process of the call, I got inspired by how the Interface of the Google Meet Mobile Interface looked, and decided to clone it.
 
 More Info [here](Day19/Day19.md)
+
+## Day 20
+
+Today, I didn't do much coding, I reviewed my Internship Project code files, then I refactored some of the code files.
+
+More Info [here](Day20/Day20.md)
