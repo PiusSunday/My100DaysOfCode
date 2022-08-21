@@ -162,3 +162,11 @@ More Info [here](Day19/Day19.md)
 Today, I didn't do much coding, I reviewed my Internship Project code files, then I refactored some of the code files.
 
 More Info [here](Day20/Day20.md)
+
+## Day 21
+
+Today was all about building and learning.
+
+I continued with the tutorial on building the BMI Calculator App.
+
+More Info [here](Day21/Day21.md)
