@@ -170,3 +170,9 @@ Today was all about building and learning.
 I continued with the tutorial on building the BMI Calculator App.
 
 More Info [here](Day21/Day21.md)
+
+## Day 22
+
+Today I completed the building of the BMI Calculator App.
+
+More Info [here](Day22/Day22.md)
