@@ -176,3 +176,11 @@ More Info [here](Day21/Day21.md)
 Today I completed the building of the BMI Calculator App.
 
 More Info [here](Day22/Day22.md)
+
+## Day 23
+
+Today, I started working on another App for my team.
+
+At some point, I ran into a RenderFlex Overflow Exception error and as I'd usually do, Wrap my entire widget tree withinn my Scaffold's body with a SingleChildScrollView BUT I kept on getting the same Exception error.
+
+More Info [here](Day23/Day23.md)
