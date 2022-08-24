@@ -184,3 +184,11 @@ Today, I started working on another App for my team.
 At some point, I ran into a RenderFlex Overflow Exception error and as I'd usually do, Wrap my entire widget tree withinn my Scaffold's body with a SingleChildScrollView BUT I kept on getting the same Exception error.
 
 More Info [here](Day23/Day23.md)
+
+## Day 24
+
+Today, I read some of the Flutter documentation and learnt some advanced Dart concepts like Enums, Maps and Ternary Operator.
+
+I started building a Payment Checkout UI I found on Twitter, Though I didn't finish it yet as I had to do some other work to finish up.
+
+More Info [here](Day24/Day24.md)
