@@ -192,3 +192,11 @@ Today, I read some of the Flutter documentation and learnt some advanced Dart co
 I started building a Payment Checkout UI I found on Twitter, Though I didn't finish it yet as I had to do some other work to finish up.
 
 More Info [here](Day24/Day24.md)
+
+## Day 25
+
+- Today, I completed the building of the Payment Checkout UI.
+
+- I also tried to add Images as Icons to an Application. I'm yet to achieve that since I'm trying to add this image as an Icon to the icon property of the IconStepper Widget from the IM_Stepper flutter package.
+
+More Info [here](Day25/Day25.md)
