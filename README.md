@@ -200,3 +200,11 @@ More Info [here](Day24/Day24.md)
 - I also tried to add Images as Icons to an Application. I'm yet to achieve that since I'm trying to add this image as an Icon to the icon property of the IconStepper Widget from the IM_Stepper flutter package.
 
 More Info [here](Day25/Day25.md)
+
+## Day 26
+
+Today, I started another Course section from the Flutter BootCamp course I'm taking on Udemy with Angela Yu.
+
+I learnt,
+
+More Info [here](Day26/Day26.md)
