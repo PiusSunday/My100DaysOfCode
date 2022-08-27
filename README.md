@@ -208,3 +208,11 @@ Today, I started another Course section from the Flutter BootCamp course I'm tak
 I learnt,
 
 More Info [here](Day26/Day26.md)
+
+## Day 27
+
+Today wasn't such a productive day, I spent most of my day out.
+
+I watched some videos and tutorials on YouTube to get more understanding of the Futures, Async and Await Dart concepts.
+
+More Info [here](Day27/Day27.md)
