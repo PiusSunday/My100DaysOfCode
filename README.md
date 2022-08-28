@@ -216,3 +216,11 @@ Today wasn't such a productive day, I spent most of my day out.
 I watched some videos and tutorials on YouTube to get more understanding of the Futures, Async and Await Dart concepts.
 
 More Info [here](Day27/Day27.md)
+
+## Day 28
+
+Today was all about learning and building.
+
+I learnt about some core Dart concepts of Exception Handling and took a dep dive into APIs.
+
+More Info [here](Day28/Day28.md)
