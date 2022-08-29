@@ -224,3 +224,11 @@ Today was all about learning and building.
 I learnt about some core Dart concepts of Exception Handling and took a dep dive into APIs.
 
 More Info [here](Day28/Day28.md)
+
+## Day 29
+
+Today, was about learning and building.
+
+For this new Course section of the Flutter BootCamp course I'm taking on Udemy with Angela Yu, we are currently building a Climate Weather App.
+
+More Info [here](Day29/Day29.md)
