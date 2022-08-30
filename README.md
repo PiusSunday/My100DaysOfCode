@@ -232,3 +232,11 @@ Today, was about learning and building.
 For this new Course section of the Flutter BootCamp course I'm taking on Udemy with Angela Yu, we are currently building a Climate Weather App.
 
 More Info [here](Day29/Day29.md)
+
+## Day 30
+
+Today I completed the building of the Climate Weather App.
+
+Climate Weather App is Mobile App that allows a user to be able to find out the live weather data in the current location of the device as well as the weather for any city they wish to know the weather conditions for!
+
+More Info [here](Day30/Day30.md)
