@@ -240,3 +240,11 @@ Today I completed the building of the Climate Weather App.
 Climate Weather App is Mobile App that allows a user to be able to find out the live weather data in the current location of the device as well as the weather for any city they wish to know the weather conditions for!
 
 More Info [here](Day30/Day30.md)
+
+## Day 31
+
+Today, I did some research on APIs and tried to work with a Sport API but it didn't go as planned.
+
+I'm currently reading a Flutter Book from b-ok.africa "Flutter Apprentice: Learn to Build Cross-Platform Apps, 2nd Edition" by Mike Katz, Kevin D. Moore, Vincent Ngo, Vincenzo Guzzi.
+
+More Info [here](Day31/Day31.md)
