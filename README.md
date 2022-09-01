@@ -248,3 +248,11 @@ Today, I did some research on APIs and tried to work with a Sport API but it did
 I'm currently reading a Flutter Book from b-ok.africa "Flutter Apprentice: Learn to Build Cross-Platform Apps, 2nd Edition" by Mike Katz, Kevin D. Moore, Vincent Ngo, Vincenzo Guzzi.
 
 More Info [here](Day31/Day31.md)
+
+## Day 32
+
+Today, I went back to learning about some Interesting and very useful Flutter Widgets.
+
+I also used some of the Widgets I learnt about to build a simple Flutter App.
+
+More Info [here](Day32/Day32.md)
