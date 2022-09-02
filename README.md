@@ -256,3 +256,11 @@ Today, I went back to learning about some Interesting and very useful Flutter Wi
 I also used some of the Widgets I learnt about to build a simple Flutter App.
 
 More Info [here](Day32/Day32.md)
+
+## Day 33
+
+Today, I continued with learning about some of the design oriented widgets and trying to recreate simple designs with the Widgets.
+
+I also read the flutter documentation on working with Network Data and using the HTTP Package as well as reading some of the CookBooks.
+
+More Info [here](Day33/Day33.md)
