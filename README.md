@@ -264,3 +264,11 @@ Today, I continued with learning about some of the design oriented widgets and t
 I also read the flutter documentation on working with Network Data and using the HTTP Package as well as reading some of the CookBooks.
 
 More Info [here](Day33/Day33.md)
+
+## Day 34
+
+Today, I spent most of my day reviewing old notes and continued reading the Flutter book on b-ok.africa.
+
+I also watched some videos on YouTube for the Widget series I'm currently following.
+
+More Info [here](Day34/Day34.md)
