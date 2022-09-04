@@ -272,3 +272,13 @@ Today, I spent most of my day reviewing old notes and continued reading the Flut
 I also watched some videos on YouTube for the Widget series I'm currently following.
 
 More Info [here](Day34/Day34.md)
+
+## Day 35
+
+Yesterday, I tried to create a new branch and push to the GitHub Organization Repository of my team but I faced a lot issues since I never did that before.
+
+It wasn't he usual adding, commiting and pushing to my remote repository, I had to create a new branch and push to the remote repository of the Organization which I never did before.
+
+Today, I spent most of the day learning some of these advanced things in and about GitHub.
+
+More Info [here](Day35/Day35.md)
