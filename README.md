@@ -282,3 +282,13 @@ It wasn't he usual adding, commiting and pushing to my remote repository, I had 
 Today, I spent most of the day learning some of these advanced things in and about GitHub.
 
 More Info [here](Day35/Day35.md)
+
+## Day 36
+
+-- Today, I started a new course section of the Flutter Development Bootcamp I'm currently following on Udemy.
+
+We are currently building a BitCoin Ticker App: A Mobile App that will allow a user to be able to find out the live price of Bitcoin in any currency of their choice.
+
+-- I also worked on parts of the UI of the App my teammates and I are currently working on.
+
+More Info [here](Day36/Day36.md)
