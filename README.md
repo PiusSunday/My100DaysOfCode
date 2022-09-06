@@ -292,3 +292,11 @@ We are currently building a BitCoin Ticker App: A Mobile App that will allow a u
 -- I also worked on parts of the UI of the App my teammates and I are currently working on.
 
 More Info [here](Day36/Day36.md)
+
+## Day 37
+
+Today, I met up with some of my team mates to discuss the progress of our project and next steps.
+
+We made a few changes to the existing UI, discussed about the BackEnd and possible ways of intergrating new features to our App then we coded for a few hours.
+
+More Info [here](Day37/Day37.md)
