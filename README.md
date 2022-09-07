@@ -300,3 +300,11 @@ Today, I met up with some of my team mates to discuss the progress of our projec
 We made a few changes to the existing UI, discussed about the BackEnd and possible ways of intergrating new features to our App then we coded for a few hours.
 
 More Info [here](Day37/Day37.md)
+
+## Day 38
+
+Today, I started working on the Authentication feature of the App with Firebase as well diving deep into the FlutterFire documentation.
+
+I spent most of the day reading the FlutterFire documentation and trying to understand how to implement the Authentication feature of the App.
+
+More Info [here](Day38/Day38.md)
