@@ -308,3 +308,13 @@ Today, I started working on the Authentication feature of the App with Firebase 
 I spent most of the day reading the FlutterFire documentation and trying to understand how to implement the Authentication feature of the App.
 
 More Info [here](Day38/Day38.md)
+
+## Day 39
+
+Today, I continued with Authentication feature of the App with Firebase.
+
+I was able to implement the Phone Authentication feature of the App to work on both Android and iOS devices.
+
+-- I also had a survey session with a PHD Researcher of Computer Science at the Glasgow University, we talked about the BDD (Behaviour Driven Development) and how they are used in the Software Development Industry.
+
+More Info [here](Day39/Day39.md)
