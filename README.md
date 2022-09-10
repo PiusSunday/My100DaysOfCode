@@ -326,3 +326,11 @@ More Info [here](Day39/Day39.md)
 I worked on the Statistics screen of the App.
 
 More Info [here](Day40/Day40.md)
+
+## Day 41
+
+-- Today, I continued with the Flutter Bootcamp Course, we had a challenge to create a to create a Bitcoin Ticker App.
+
+I was able to complete the challenge and I'm happy with the result, I'll spend the rest of the night cleaning up my code and adding some more features to the App to make it more user friendly.
+
+More Info [here](Day41/Day41.md)
