@@ -334,3 +334,9 @@ More Info [here](Day40/Day40.md)
 I was able to complete the challenge and I'm happy with the result, I'll spend the rest of the night cleaning up my code and adding some more features to the App to make it more user friendly.
 
 More Info [here](Day41/Day41.md)
+
+## Day 42
+
+
+
+More Info [here](Day42/Day42.md)
