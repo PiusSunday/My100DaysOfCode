@@ -337,6 +337,16 @@ More Info [here](Day41/Day41.md)
 
 ## Day 42
 
+-- Today, I worked on the Profile Screen for the App I'm currently building with my teammates.
 
+I also cleaned up and refactored the code for the Bitcoin Ticker App.
 
 More Info [here](Day42/Day42.md)
+
+## Day 43
+
+-- Today, I continued reading the Flutter Apprentice Book from Ray Wenderlich on how to build Cross-Platform Flutter Apps.
+
+I like how the book is structured, it's very easy to follow and understand, and it's very detailed.
+
+More Info [here](Day43/Day43.md)
