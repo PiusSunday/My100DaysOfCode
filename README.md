@@ -350,3 +350,9 @@ More Info [here](Day42/Day42.md)
 I like how the book is structured, it's very easy to follow and understand, and it's very detailed.
 
 More Info [here](Day43/Day43.md)
+
+## Day 44
+
+-- Today, I reviewed some old projects and I continued reading the Flutter Apprentice Book.
+
+More Info [here](Day44/Day44.md)
