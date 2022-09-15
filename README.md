@@ -364,3 +364,11 @@ More Info [here](Day44/Day44.md)
 Trying to get some work done before I sleep.
 
 More Info [here](Day45/Day45.md)
+
+## Day 46
+
+-- Today, I was able to continue reading the Flutter Apprentice Book and coded for a few hours.
+
+Expecting some slow and poor updates for the next few days since I'm going to be busy with some work off coding stuff.
+
+More Info [here](Day46/Day46.md)
