@@ -356,3 +356,11 @@ More Info [here](Day43/Day43.md)
 -- Today, I reviewed some old projects and I continued reading the Flutter Apprentice Book.
 
 More Info [here](Day44/Day44.md)
+
+## Day 45
+
+-- Yesterday, I got caught up with a lot of work off coding and my books so I didn’t do much today.
+
+Trying to get some work done before I sleep.
+
+More Info [here](Day45/Day45.md)
