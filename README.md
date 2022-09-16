@@ -372,3 +372,9 @@ More Info [here](Day45/Day45.md)
 Expecting some slow and poor updates for the next few days since I'm going to be busy with some work off coding stuff.
 
 More Info [here](Day46/Day46.md)
+
+## Day 47
+
+-- Today, I worked on a simple Recipe App called FooderLich App to solidify my understanding of using Layout Widgets and other display widgets.
+
+More Info [here](Day47/Day47.md)
