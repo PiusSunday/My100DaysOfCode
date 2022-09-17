@@ -378,3 +378,11 @@ More Info [here](Day46/Day46.md)
 -- Today, I worked on a simple Recipe App called FooderLich App to solidify my understanding of using Layout Widgets and other display widgets.
 
 More Info [here](Day47/Day47.md)
+
+## Day 48
+
+-- Today was the last day of a 3 Day FinTech event I attended, I couldn't do much during the past 3 days as I was pretty much occupied all days long.
+
+I'm curently on a night long train travel back to my city to be able to attend my first class of the semester tomorrow.
+
+More Info [here](Day48/Day48.md)
