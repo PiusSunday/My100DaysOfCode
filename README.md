@@ -386,3 +386,11 @@ More Info [here](Day47/Day47.md)
 I'm curently on a night long train travel back to my city to be able to attend my first class of the semester tomorrow.
 
 More Info [here](Day48/Day48.md)
+
+## Day 49
+
+Today I tried to build an App on the web with the Zapp Run tool.
+
+Although I still don’t understand how to fully navigate through, but it’s such a great tool, with little or no stress to build Flutter Apps.
+
+More Info [here](Day49/Day49.md)
