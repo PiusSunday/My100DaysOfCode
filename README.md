@@ -394,3 +394,11 @@ Today I tried to build an App on the web with the Zapp Run tool.
 Although I still don’t understand how to fully navigate through, but it’s such a great tool, with little or no stress to build Flutter Apps.
 
 More Info [here](Day49/Day49.md)
+
+## Day 50
+
+Today, I continued readng the Flutter Apprentice book, and I’m on Chapter 4, which is about the Flutter Widgets in details.
+
+It takes a deep dive into the theory of widgets to help you better understand how to use them.
+
+More Info [here](Day50/Day50.md)
