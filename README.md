@@ -402,3 +402,11 @@ Today, I continued readng the Flutter Apprentice book, and I’m on Chapter 4, w
 It takes a deep dive into the theory of widgets to help you better understand how to use them.
 
 More Info [here](Day50/Day50.md)
+
+## Day 51
+
+Today, I continued working on The FooderLich App to add more screens and also some layout widgets.
+
+Glad for my learning path, learning new things everyday is so important.!!!
+
+More Info [here](Day51/Day51.md)
