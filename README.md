@@ -410,3 +410,11 @@ Today, I continued working on The FooderLich App to add more screens and also so
 Glad for my learning path, learning new things everyday is so important.!!!
 
 More Info [here](Day51/Day51.md)
+
+## Day 52
+
+Still working on the FooderLich App.
+
+Currently learning ‘Bout the ListView and it’s builders, Scrollview and it’s properties
+
+More Info [here](Day52/Day52.md)
