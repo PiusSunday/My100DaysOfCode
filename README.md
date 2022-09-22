@@ -418,3 +418,13 @@ Still working on the FooderLich App.
 Currently learning ‘Bout the ListView and it’s builders, Scrollview and it’s properties
 
 More Info [here](Day52/Day52.md)
+
+## Day 53
+
+Today, I worked on the Recipes Screen and Currently working on the Grocery Screen.
+
+I learnt about ListView and it’s builders, GriedView, Scrollview and it’s properties.
+
+Currently learning about Provider package and how to use it to manage state.
+
+More Info [here](Day53/Day53.md)
