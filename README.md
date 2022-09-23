@@ -428,3 +428,11 @@ I learnt about ListView and it’s builders, GriedView, Scrollview and it’s pr
 Currently learning about Provider package and how to use it to manage state.
 
 More Info [here](Day53/Day53.md)
+
+## Day 54
+
+Today, I continued working on the Grocery Screen and Managing of the Grocery Items.
+
+I learnt about some new and interesting Flutter Packages.
+
+More Info [here](Day54/Day54.md)
