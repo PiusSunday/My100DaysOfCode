@@ -436,3 +436,11 @@ Today, I continued working on the Grocery Screen and Managing of the Grocery Ite
 I learnt about some new and interesting Flutter Packages.
 
 More Info [here](Day54/Day54.md)
+
+## Day 55
+
+Today, I took time to clean up and refactor my code on the Fooderlich App.
+
+I spent most of day doing school work and learning about Java Threads and Concurrency.
+
+More Info [here](Day55/Day55.md)
