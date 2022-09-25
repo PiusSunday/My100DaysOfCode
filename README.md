@@ -444,3 +444,11 @@ Today, I took time to clean up and refactor my code on the Fooderlich App.
 I spent most of day doing school work and learning about Java Threads and Concurrency.
 
 More Info [here](Day55/Day55.md)
+
+## Day 56
+
+After reading an Introduction book to the Provider packaage, I didn't get a hang of it.
+
+Today, I read about the Provider package and as well watched some videos on it.
+
+More Info [here](Day56/Day56.md)
