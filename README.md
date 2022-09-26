@@ -452,3 +452,11 @@ After reading an Introduction book to the Provider packaage, I didn't get a hang
 Today, I read about the Provider package and as well watched some videos on it.
 
 More Info [here](Day56/Day56.md)
+
+## Day 57
+
+Today, I continued learning about the Provider package and how to use it.
+
+I'm currently working on a small project to implement what I've learnt so far about the Provider package.
+
+More Info [here](Day57/Day57.md)
