@@ -460,3 +460,11 @@ Today, I continued learning about the Provider package and how to use it.
 I'm currently working on a small project to implement what I've learnt so far about the Provider package.
 
 More Info [here](Day57/Day57.md)
+
+## Day 58
+
+Today, I did some school work, where I had to learn and implement Java Socket Programming.
+
+I learnt about the Client/Server Architecture, and how to implement a simple client and server using Java.
+
+More Info [here](Day58/Day58.md)
