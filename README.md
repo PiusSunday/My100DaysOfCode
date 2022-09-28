@@ -468,3 +468,11 @@ Today, I did some school work, where I had to learn and implement Java Socket Pr
 I learnt about the Client/Server Architecture, and how to implement a simple client and server using Java.
 
 More Info [here](Day58/Day58.md)
+
+## Day 59
+
+Today, I didn't do much coding as I was busy with school work. I did, however, learn about worked on the Onboarding Screen of a new app I'm working on.
+
+I'm currently trying to fix a bug in the app, where the asset images loads very slowly.
+
+More Info [here](Day59/Day59.md)
