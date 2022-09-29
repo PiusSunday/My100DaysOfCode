@@ -476,3 +476,11 @@ Today, I didn't do much coding as I was busy with school work. I did, however, l
 I'm currently trying to fix a bug in the app, where the asset images loads very slowly.
 
 More Info [here](Day59/Day59.md)
+
+## Day 60
+
+Today, I worked on the home screen of the app I'm working on. I also worked completed the work on onboarding screens.
+
+I fixed the bug in the app, where the assets images loads very slowly. I did this by using the `preCacheImage` method from the `CachedNetworkImage` package.
+
+More Info [here](Day60/Day60.md)
