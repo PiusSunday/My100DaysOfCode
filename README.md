@@ -484,3 +484,11 @@ Today, I worked on the home screen of the app I'm working on. I also worked comp
 I fixed the bug in the app, where the assets images loads very slowly. I did this by using the `preCacheImage` method from the `CachedNetworkImage` package.
 
 More Info [here](Day60/Day60.md)
+
+## Day 61
+
+Today, I continued working on the home screen of the smart home app I'm working on. I also worked on the onboarding screens.
+
+- I added some functionalities to the smart home system
+
+More Info [here](Day61/Day61.md)
