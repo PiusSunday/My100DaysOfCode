@@ -492,3 +492,15 @@ Today, I continued working on the home screen of the smart home app I'm working 
 - I added some functionalities to the smart home system
 
 More Info [here](Day61/Day61.md)
+
+## Day 62
+
+Today, I continued working on the Smart Home App
+
+Cleaned up some dead codses and as well arranged my folders and file structure.
+
+I'm currently working on the `Settings` screen of the app.
+
+I'm using the `Provider` package to manage the state of the app.
+
+More Info [here](Day62/Day62.md)
