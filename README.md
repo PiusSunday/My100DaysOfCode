@@ -504,3 +504,13 @@ I'm currently working on the `Settings` screen of the app.
 I'm using the `Provider` package to manage the state of the app.
 
 More Info [here](Day62/Day62.md)
+
+## Day 63
+
+Today, I did some school work on Python.
+
+I attempted some Python Data Structure exercises from the PYnative website.
+
+I was able to solve some of the exercises but struggled with some.
+
+More Info [here](Day63/Day63.md)
