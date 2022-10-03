@@ -514,3 +514,11 @@ I attempted some Python Data Structure exercises from the PYnative website.
 I was able to solve some of the exercises but struggled with some.
 
 More Info [here](Day63/Day63.md)
+
+## Day 64
+
+Today was all about setting up Firebase for the Smart Home App project.
+
+I'll be using Firebase as the backend of the project for services like Authentication, etc.
+
+More Info [here](Day64/Day64.md)
