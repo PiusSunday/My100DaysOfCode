@@ -522,3 +522,11 @@ Today was all about setting up Firebase for the Smart Home App project.
 I'll be using Firebase as the backend of the project for services like Authentication, etc.
 
 More Info [here](Day64/Day64.md)
+
+## Day 65
+
+Today, I finished the Sign Up and Login UIs for the Smart Home App project.
+
+I implemented the Authentication services using Firebase.
+
+More Info [here](Day65/Day65.md)
