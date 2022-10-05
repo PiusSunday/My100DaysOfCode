@@ -530,3 +530,11 @@ Today, I finished the Sign Up and Login UIs for the Smart Home App project.
 I implemented the Authentication services using Firebase.
 
 More Info [here](Day65/Day65.md)
+
+## Day 66
+
+Today, I studied and learnt about how to create a multi threaded server in Java.
+
+I also learnt about the `Thread` class and the `Runnable` interface.
+
+More Info [here](Day66/Day66.md)
