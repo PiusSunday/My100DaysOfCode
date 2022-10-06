@@ -538,3 +538,11 @@ Today, I studied and learnt about how to create a multi threaded server in Java.
 I also learnt about the `Thread` class and the `Runnable` interface.
 
 More Info [here](Day66/Day66.md)
+
+## Day 67
+
+Today, I continued working onthe Smart HOME App.
+
+I finished up everything about user authentication and authorization using Firebase.
+
+More Info [here](Day67/Day67.md)
