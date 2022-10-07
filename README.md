@@ -546,3 +546,11 @@ Today, I continued working onthe Smart HOME App.
 I finished up everything about user authentication and authorization using Firebase.
 
 More Info [here](Day67/Day67.md)
+
+## Day 68
+
+Today, I finished everything about user authentication on the Smart Home App.
+
+I added the Forgot Password Screen to help users to be able to change their password in case they forget or just want to change for security purposes.
+
+More Info [here](Day68/Day68.md)
