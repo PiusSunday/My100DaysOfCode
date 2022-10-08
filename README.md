@@ -554,3 +554,13 @@ Today, I finished everything about user authentication on the Smart Home App.
 I added the Forgot Password Screen to help users to be able to change their password in case they forget or just want to change for security purposes.
 
 More Info [here](Day68/Day68.md)
+
+## Day 69
+
+Today, I did some error handling on the Smart Home App for the user authentication.
+
+I created new fields to collect user informations then saved them to Firebase Firestore Database.
+
+I'm currently trying to separate the sign up screen into two, one for the user to enter their email and password and the other for the user to enter their informations.
+
+More Info [here](Day69/Day69.md)
