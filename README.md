@@ -564,3 +564,13 @@ I created new fields to collect user informations then saved them to Firebase Fi
 I'm currently trying to separate the sign up screen into two, one for the user to enter their email and password and the other for the user to enter their informations.
 
 More Info [here](Day69/Day69.md)
+
+## Day 70
+
+Today was all about Bug Fixing and Error Handling on the Smart Home App.
+
+I had a bug in my code that I couldn't figure out for a while.
+
+I took time today to find the bug and fix it.
+
+More Info [here](Day70/Day70.md)
