@@ -574,3 +574,11 @@ I had a bug in my code that I couldn't figure out for a while.
 I took time today to find the bug and fix it.
 
 More Info [here](Day70/Day70.md)
+
+## Day 71
+
+Well, as they say, "One Bug Down, One Bug to Go".
+
+After finding and fixing some of the bugs from yesterday, I ran into some others today, which I'm still trying to figure out.
+
+More Info [here](Day71/Day71.md)
