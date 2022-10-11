@@ -582,3 +582,11 @@ Well, as they say, "One Bug Down, One Bug to Go".
 After finding and fixing some of the bugs from yesterday, I ran into some others today, which I'm still trying to figure out.
 
 More Info [here](Day71/Day71.md)
+
+## Day 72
+
+So about the bug yesterday, when trying to add a new user information to the Firebase Firestore Database, the email wouldn't get sent but the other user informations gets sent to Firestore, for some reasons I didn't know, even though the function and function call was correct.
+
+I took time today to go through the code, analyze the function and the function call and I finally found the bug.
+
+More Info [here](Day72/Day72.md)
