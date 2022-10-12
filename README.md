@@ -590,3 +590,13 @@ So about the bug yesterday, when trying to add a new user information to the Fir
 I took time today to go through the code, analyze the function and the function call and I finally found the bug.
 
 More Info [here](Day72/Day72.md)
+
+## Day 73
+
+Today, I continued working on the Multi Client Chat App with Java.
+
+It's a school project, we have to make a chat app that can handle multiple clients.
+
+We also have to configure the Server and Clients to be able to run on a Graphical User Interface. (GUI)!
+
+More Info [here](Day73/Day73.md)
