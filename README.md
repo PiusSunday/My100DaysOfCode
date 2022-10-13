@@ -600,3 +600,11 @@ It's a school project, we have to make a chat app that can handle multiple clien
 We also have to configure the Server and Clients to be able to run on a Graphical User Interface. (GUI)!
 
 More Info [here](Day73/Day73.md)
+
+## Day 74
+
+Today was all about trying to figure out how to make the Server and Clients run on a Graphical User Interface.
+
+Currently doing some research and watching some videos on how to do this.
+
+More Info [here](Day74/Day74.md)
