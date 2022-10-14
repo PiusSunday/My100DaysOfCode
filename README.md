@@ -608,3 +608,13 @@ Today was all about trying to figure out how to make the Server and Clients run 
 Currently doing some research and watching some videos on how to do this.
 
 More Info [here](Day74/Day74.md)
+
+## Day 75
+
+Today, my binome and I finally got the Multi Client Chat App to work with the GUI.
+
+After a lot of trials and errors, we finally got it to work, thanks to his great efforts.
+
+Both the Server and every connected Client can now send and receive messages on the GUI.
+
+More Info [here](Day75/Day75.md)
