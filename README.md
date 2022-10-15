@@ -618,3 +618,11 @@ After a lot of trials and errors, we finally got it to work, thanks to his great
 Both the Server and every connected Client can now send and receive messages on the GUI.
 
 More Info [here](Day75/Day75.md)
+
+## Day 76
+
+Today, I DID NOTHING ABOUT CODING!!!
+
+Had to catch up with some school work and other personal stuff!
+
+More Info [here](Day76/Day76.md)
