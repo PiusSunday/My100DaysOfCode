@@ -626,3 +626,13 @@ Today, I DID NOTHING ABOUT CODING!!!
 Had to catch up with some school work and other personal stuff!
 
 More Info [here](Day76/Day76.md)
+
+## Day 77
+
+For Day 77, which was yesterday, I couldn`t update my progress because I was so tired and I needed to take some rest.
+
+A nap which was supposed to last for about two hours turned out to be a 7 hour sleep and I woke up at 3:00 AM. 😂
+
+Anyways, I yestrday, I did some work on the Smart Home App, I moved on with the next CRUD operation, which is the `Read` operation.
+
+More Info [here](Day77/Day77.md)
