@@ -636,3 +636,13 @@ A nap which was supposed to last for about two hours turned out to be a 7 hour s
 Anyways, I yestrday, I did some work on the Smart Home App, I moved on with the next CRUD operation, which is the `Read` operation.
 
 More Info [here](Day77/Day77.md)
+
+## Day 78
+
+Today, I continued working on the Smart Home App.
+
+After working on Retrieving the user data from Firebase, the UI didn't look so beautiful, so I started working on improvong the UI
+
+I read and stil currently reading a book on working with APIs.
+
+More Info [here](Day78/Day78.md)
