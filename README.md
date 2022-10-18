@@ -646,3 +646,9 @@ After working on Retrieving the user data from Firebase, the UI didn't look so b
 I read and stil currently reading a book on working with APIs.
 
 More Info [here](Day78/Day78.md)
+
+## Day 79
+
+Today, I, worked on a school assignment activity which was to do Exploratory Data Analysis on a Kaggle Data for Machine Learning Prediction.
+
+More Info [here](Day79/Day79.md)
