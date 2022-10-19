@@ -652,3 +652,11 @@ More Info [here](Day78/Day78.md)
 Today, I, worked on a school assignment activity which was to do Exploratory Data Analysis on a Kaggle Data for Machine Learning Prediction.
 
 More Info [here](Day79/Day79.md)
+
+## Day 80
+
+Today, I didn't do much of coding other than reviewing and refactoring part of the code of the Smart Home App I'm working on.
+
+I rather did a some school work on Cisco Packet Tracer which was about configuring a router that connects different networks and also configuring a switch that connects different devices.
+
+More Info [here](Day80/Day80.md)
