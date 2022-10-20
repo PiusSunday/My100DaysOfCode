@@ -660,3 +660,9 @@ Today, I didn't do much of coding other than reviewing and refactoring part of t
 I rather did a some school work on Cisco Packet Tracer which was about configuring a router that connects different networks and also configuring a switch that connects different devices.
 
 More Info [here](Day80/Day80.md)
+
+## I'm Taking A Break From The 100DaysOfCode Challenge
+
+I'm taking a break from the 100DaysOfCode Challenge due to my inability to give my 100% to the challenge at the moment due to my studies.
+
+More Info [here](/Study%20Break/study_break.md)
